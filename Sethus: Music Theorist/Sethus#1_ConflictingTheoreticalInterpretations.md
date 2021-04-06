@@ -66,4 +66,6 @@ CQ4: Apart from Lasso’s possible exegetical intentions, what does this work te
    - Is the ambiguity observed here specific to particular groups of works? 
 
 ## Resources
-the literature dedicated to Vide homo
+
+- the literature dedicated to Vide homo
+- [Sethus & Vide homo: first steps towards semantic data](https://github.com/Amleth/SHERLOCK/blob/master/notes/2021.04.06_POLIFONIA_MANINPASTA.md)
